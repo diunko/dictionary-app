@@ -1,0 +1,699 @@
+{
+  "lemmas": {
+    "brainwash.v.02.brainwash": {
+      "_id": "brainwash.v.02.brainwash", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "brainwash", 
+      "synset_id": [
+        "brainwash.v.02"
+      ]
+    }, 
+    "cram.v.03.bone": {
+      "_id": "cram.v.03.bone", 
+      "antonyms": [], 
+      "freq": 25, 
+      "name": "bone", 
+      "synset_id": [
+        "cram.v.03"
+      ]
+    }, 
+    "cram.v.03.bone_up": {
+      "_id": "cram.v.03.bone_up", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "bone_up", 
+      "synset_id": [
+        "cram.v.03"
+      ]
+    }, 
+    "cram.v.03.cram": {
+      "_id": "cram.v.03.cram", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "cram", 
+      "synset_id": [
+        "cram.v.03"
+      ]
+    }, 
+    "cram.v.03.drum": {
+      "_id": "cram.v.03.drum", 
+      "antonyms": [], 
+      "freq": 9, 
+      "name": "drum", 
+      "synset_id": [
+        "cram.v.03"
+      ]
+    }, 
+    "cram.v.03.get_up": {
+      "_id": "cram.v.03.get_up", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "get_up", 
+      "synset_id": [
+        "cram.v.03"
+      ]
+    }, 
+    "cram.v.03.grind_away": {
+      "_id": "cram.v.03.grind_away", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "grind_away", 
+      "synset_id": [
+        "cram.v.03"
+      ]
+    }, 
+    "cram.v.03.mug_up": {
+      "_id": "cram.v.03.mug_up", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "mug_up", 
+      "synset_id": [
+        "cram.v.03"
+      ]
+    }, 
+    "cram.v.03.swot": {
+      "_id": "cram.v.03.swot", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "swot", 
+      "synset_id": [
+        "cram.v.03"
+      ]
+    }, 
+    "cram.v.03.swot_up": {
+      "_id": "cram.v.03.swot_up", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "swot_up", 
+      "synset_id": [
+        "cram.v.03"
+      ]
+    }, 
+    "din.v.02.din": {
+      "_id": "din.v.02.din", 
+      "antonyms": [], 
+      "freq": 1, 
+      "name": "din", 
+      "synset_id": [
+        "din.v.02"
+      ]
+    }, 
+    "drill.v.02.drill": {
+      "_id": "drill.v.02.drill", 
+      "antonyms": [], 
+      "freq": 32, 
+      "name": "drill", 
+      "synset_id": [
+        "drill.v.02"
+      ]
+    }, 
+    "drill.v.03.drill": {
+      "_id": "drill.v.03.drill", 
+      "antonyms": [], 
+      "freq": 32, 
+      "name": "drill", 
+      "synset_id": [
+        "drill.v.03"
+      ]
+    }, 
+    "drill.v.03.exercise": {
+      "_id": "drill.v.03.exercise", 
+      "antonyms": [], 
+      "freq": 41, 
+      "name": "exercise", 
+      "synset_id": [
+        "drill.v.03"
+      ]
+    }, 
+    "drill.v.03.practice": {
+      "_id": "drill.v.03.practice", 
+      "antonyms": [], 
+      "freq": 61, 
+      "name": "practice", 
+      "synset_id": [
+        "drill.v.03"
+      ]
+    }, 
+    "drill.v.03.practise": {
+      "_id": "drill.v.03.practise", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "practise", 
+      "synset_id": [
+        "drill.v.03"
+      ]
+    }, 
+    "drill.v.04.drill": {
+      "_id": "drill.v.04.drill", 
+      "antonyms": [], 
+      "freq": 32, 
+      "name": "drill", 
+      "synset_id": [
+        "drill.v.04"
+      ]
+    }, 
+    "drill.v.05.drill": {
+      "_id": "drill.v.05.drill", 
+      "antonyms": [], 
+      "freq": 32, 
+      "name": "drill", 
+      "synset_id": [
+        "drill.v.05"
+      ]
+    }, 
+    "hammer_in.v.01.beat_in": {
+      "_id": "hammer_in.v.01.beat_in", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "beat_in", 
+      "synset_id": [
+        "hammer_in.v.01"
+      ]
+    }, 
+    "hammer_in.v.01.drill_in": {
+      "_id": "hammer_in.v.01.drill_in", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "drill_in", 
+      "synset_id": [
+        "hammer_in.v.01"
+      ]
+    }, 
+    "hammer_in.v.01.hammer_in": {
+      "_id": "hammer_in.v.01.hammer_in", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "hammer_in", 
+      "synset_id": [
+        "hammer_in.v.01"
+      ]
+    }, 
+    "hammer_in.v.01.ram_down": {
+      "_id": "hammer_in.v.01.ram_down", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "ram_down", 
+      "synset_id": [
+        "hammer_in.v.01"
+      ]
+    }, 
+    "hold.v.23.hold": {
+      "_id": "hold.v.23.hold", 
+      "antonyms": [], 
+      "freq": 116, 
+      "name": "hold", 
+      "synset_id": [
+        "hold.v.23"
+      ]
+    }, 
+    "housebreak.v.01.house-train": {
+      "_id": "housebreak.v.01.house-train", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "house-train", 
+      "synset_id": [
+        "housebreak.v.01"
+      ]
+    }, 
+    "housebreak.v.01.housebreak": {
+      "_id": "housebreak.v.01.housebreak", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "housebreak", 
+      "synset_id": [
+        "housebreak.v.01"
+      ]
+    }, 
+    "inculcate.v.01.inculcate": {
+      "_id": "inculcate.v.01.inculcate", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "inculcate", 
+      "synset_id": [
+        "inculcate.v.01"
+      ]
+    }, 
+    "inculcate.v.01.infuse": {
+      "_id": "inculcate.v.01.infuse", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "infuse", 
+      "synset_id": [
+        "inculcate.v.01"
+      ]
+    }, 
+    "inculcate.v.01.instill": {
+      "_id": "inculcate.v.01.instill", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "instill", 
+      "synset_id": [
+        "inculcate.v.01"
+      ]
+    }, 
+    "indoctrinate.v.01.indoctrinate": {
+      "_id": "indoctrinate.v.01.indoctrinate", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "indoctrinate", 
+      "synset_id": [
+        "indoctrinate.v.01"
+      ]
+    }, 
+    "infect.v.04.infect": {
+      "_id": "infect.v.04.infect", 
+      "antonyms": [], 
+      "freq": 1, 
+      "name": "infect", 
+      "synset_id": [
+        "infect.v.04"
+      ]
+    }, 
+    "memorize.v.01.con": {
+      "_id": "memorize.v.01.con", 
+      "antonyms": [], 
+      "freq": 6, 
+      "name": "con", 
+      "synset_id": [
+        "memorize.v.01"
+      ]
+    }, 
+    "memorize.v.01.learn": {
+      "_id": "memorize.v.01.learn", 
+      "antonyms": [], 
+      "freq": 58, 
+      "name": "learn", 
+      "synset_id": [
+        "memorize.v.01"
+      ]
+    }, 
+    "memorize.v.01.memorise": {
+      "_id": "memorize.v.01.memorise", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "memorise", 
+      "synset_id": [
+        "memorize.v.01"
+      ]
+    }, 
+    "memorize.v.01.memorize": {
+      "_id": "memorize.v.01.memorize", 
+      "antonyms": [], 
+      "freq": 3, 
+      "name": "memorize", 
+      "synset_id": [
+        "memorize.v.01"
+      ]
+    }, 
+    "revolutionize.v.03.inspire": {
+      "_id": "revolutionize.v.03.inspire", 
+      "antonyms": [], 
+      "freq": 2, 
+      "name": "inspire", 
+      "synset_id": [
+        "revolutionize.v.03"
+      ]
+    }, 
+    "revolutionize.v.03.revolutionise": {
+      "_id": "revolutionize.v.03.revolutionise", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "revolutionise", 
+      "synset_id": [
+        "revolutionize.v.03"
+      ]
+    }, 
+    "revolutionize.v.03.revolutionize": {
+      "_id": "revolutionize.v.03.revolutionize", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "revolutionize", 
+      "synset_id": [
+        "revolutionize.v.03"
+      ]
+    }, 
+    "roughhouse.v.01.roughhouse": {
+      "_id": "roughhouse.v.01.roughhouse", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "roughhouse", 
+      "synset_id": [
+        "roughhouse.v.01"
+      ]
+    }, 
+    "study.v.02.study": {
+      "_id": "study.v.02.study", 
+      "antonyms": [], 
+      "freq": 181, 
+      "name": "study", 
+      "synset_id": [
+        "study.v.02"
+      ]
+    }, 
+    "study.v.05.hit_the_books": {
+      "_id": "study.v.05.hit_the_books", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "hit_the_books", 
+      "synset_id": [
+        "study.v.05"
+      ]
+    }, 
+    "study.v.05.study": {
+      "_id": "study.v.05.study", 
+      "antonyms": [], 
+      "freq": 181, 
+      "name": "study", 
+      "synset_id": [
+        "study.v.05"
+      ]
+    }, 
+    "toilet-train.v.01.toilet-train": {
+      "_id": "toilet-train.v.01.toilet-train", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "toilet-train", 
+      "synset_id": [
+        "toilet-train.v.01"
+      ]
+    }, 
+    "understudy.v.01.alternate": {
+      "_id": "understudy.v.01.alternate", 
+      "antonyms": [], 
+      "freq": 11, 
+      "name": "alternate", 
+      "synset_id": [
+        "understudy.v.01"
+      ]
+    }, 
+    "understudy.v.01.understudy": {
+      "_id": "understudy.v.01.understudy", 
+      "antonyms": [], 
+      "freq": 0, 
+      "name": "understudy", 
+      "synset_id": [
+        "understudy.v.01"
+      ]
+    }
+  }, 
+  "synsets": {
+    "brainwash.v.02": {
+      "_id": "brainwash.v.02", 
+      "definition": "submit to brainwashing; indoctrinate forcibly", 
+      "freq": 0, 
+      "hypernyms": [
+        "indoctrinate.v.01"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "brainwash.v.02.brainwash"
+      ], 
+      "pos": "v"
+    }, 
+    "cram.v.03": {
+      "_id": "cram.v.03", 
+      "definition": "study intensively, as before an exam", 
+      "freq": 34, 
+      "hypernyms": [
+        "study.v.05"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "cram.v.03.cram", 
+        "cram.v.03.grind_away", 
+        "cram.v.03.drum", 
+        "cram.v.03.bone_up", 
+        "cram.v.03.swot", 
+        "cram.v.03.get_up", 
+        "cram.v.03.mug_up", 
+        "cram.v.03.swot_up", 
+        "cram.v.03.bone"
+      ], 
+      "pos": "v"
+    }, 
+    "din.v.02": {
+      "_id": "din.v.02", 
+      "definition": "instill (into a person) by constant repetition", 
+      "freq": 1, 
+      "hypernyms": [
+        "inculcate.v.01"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "din.v.02.din"
+      ], 
+      "pos": "v"
+    }, 
+    "drill.v.02": {
+      "_id": "drill.v.02", 
+      "definition": "train in the military, e.g., in the use of weapons", 
+      "freq": 32, 
+      "hypernyms": [
+        "train.v.01"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "drill.v.02.drill"
+      ], 
+      "pos": "v"
+    }, 
+    "drill.v.03": {
+      "_id": "drill.v.03", 
+      "definition": "learn by repetition", 
+      "freq": 134, 
+      "hypernyms": [
+        "learn.v.04"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "drill.v.03.drill", 
+        "drill.v.03.exercise", 
+        "drill.v.03.practice", 
+        "drill.v.03.practise"
+      ], 
+      "pos": "v"
+    }, 
+    "drill.v.04": {
+      "_id": "drill.v.04", 
+      "definition": "teach by repetition", 
+      "freq": 32, 
+      "hypernyms": [
+        "teach.v.01"
+      ], 
+      "hyponyms": [
+        "hammer_in.v.01", 
+        "inculcate.v.01"
+      ], 
+      "lemmas": [
+        "drill.v.04.drill"
+      ], 
+      "pos": "v"
+    }, 
+    "drill.v.05": {
+      "_id": "drill.v.05", 
+      "definition": "undergo military training or do military exercises", 
+      "freq": 32, 
+      "hypernyms": [
+        "train.v.02"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "drill.v.05.drill"
+      ], 
+      "pos": "v"
+    }, 
+    "hammer_in.v.01": {
+      "_id": "hammer_in.v.01", 
+      "definition": "teach by drills and repetition", 
+      "freq": 0, 
+      "hypernyms": [
+        "drill.v.04"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "hammer_in.v.01.hammer_in", 
+        "hammer_in.v.01.drill_in", 
+        "hammer_in.v.01.ram_down", 
+        "hammer_in.v.01.beat_in"
+      ], 
+      "pos": "v"
+    }, 
+    "hold.v.23": {
+      "_id": "hold.v.23", 
+      "definition": "remain committed to", 
+      "freq": 116, 
+      "hypernyms": [
+        "think.v.01"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "hold.v.23.hold"
+      ], 
+      "pos": "v"
+    }, 
+    "housebreak.v.01": {
+      "_id": "housebreak.v.01", 
+      "definition": "train (a pet) to live cleanly in a house", 
+      "freq": 0, 
+      "hypernyms": [
+        "train.v.01"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "housebreak.v.01.housebreak", 
+        "housebreak.v.01.house-train"
+      ], 
+      "pos": "v"
+    }, 
+    "inculcate.v.01": {
+      "_id": "inculcate.v.01", 
+      "definition": "teach and impress by frequent repetitions or admonitions", 
+      "freq": 0, 
+      "hypernyms": [
+        "drill.v.04"
+      ], 
+      "hyponyms": [
+        "din.v.02"
+      ], 
+      "lemmas": [
+        "inculcate.v.01.inculcate", 
+        "inculcate.v.01.instill", 
+        "inculcate.v.01.infuse"
+      ], 
+      "pos": "v"
+    }, 
+    "indoctrinate.v.01": {
+      "_id": "indoctrinate.v.01", 
+      "definition": "teach doctrines to; teach uncritically", 
+      "freq": 0, 
+      "hypernyms": [
+        "teach.v.01"
+      ], 
+      "hyponyms": [
+        "brainwash.v.02", 
+        "revolutionize.v.03"
+      ], 
+      "lemmas": [
+        "indoctrinate.v.01.indoctrinate"
+      ], 
+      "pos": "v"
+    }, 
+    "infect.v.04": {
+      "_id": "infect.v.04", 
+      "definition": "affect in a contagious way", 
+      "freq": 1, 
+      "hypernyms": [
+        "affect.v.05"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "infect.v.04.infect"
+      ], 
+      "pos": "v"
+    }, 
+    "memorize.v.01": {
+      "_id": "memorize.v.01", 
+      "definition": "commit to memory; learn by heart", 
+      "freq": 67, 
+      "hypernyms": [
+        "study.v.05"
+      ], 
+      "hyponyms": [
+        "understudy.v.01"
+      ], 
+      "lemmas": [
+        "memorize.v.01.memorize", 
+        "memorize.v.01.memorise", 
+        "memorize.v.01.con", 
+        "memorize.v.01.learn"
+      ], 
+      "pos": "v"
+    }, 
+    "revolutionize.v.03": {
+      "_id": "revolutionize.v.03", 
+      "definition": "fill with revolutionary ideas", 
+      "freq": 2, 
+      "hypernyms": [
+        "indoctrinate.v.01"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "revolutionize.v.03.revolutionize", 
+        "revolutionize.v.03.revolutionise", 
+        "revolutionize.v.03.inspire"
+      ], 
+      "pos": "v"
+    }, 
+    "roughhouse.v.01": {
+      "_id": "roughhouse.v.01", 
+      "definition": "engage in rough or disorderly play", 
+      "freq": 0, 
+      "hypernyms": [
+        "play.v.05"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "roughhouse.v.01.roughhouse"
+      ], 
+      "pos": "v"
+    }, 
+    "study.v.02": {
+      "_id": "study.v.02", 
+      "definition": "be a student; follow a course of study; be enrolled at an institute of learning", 
+      "freq": 181, 
+      "hypernyms": [], 
+      "hyponyms": [
+        "major.v.01"
+      ], 
+      "lemmas": [
+        "study.v.02.study"
+      ], 
+      "pos": "v"
+    }, 
+    "study.v.05": {
+      "_id": "study.v.05", 
+      "definition": "learn by reading books; I must hit the books now\"", 
+      "freq": 181, 
+      "hypernyms": [
+        "learn.v.01"
+      ], 
+      "hyponyms": [
+        "cram.v.03", 
+        "memorize.v.01"
+      ], 
+      "lemmas": [
+        "study.v.05.study", 
+        "study.v.05.hit_the_books"
+      ], 
+      "pos": "v"
+    }, 
+    "toilet-train.v.01": {
+      "_id": "toilet-train.v.01", 
+      "definition": "train (a small child) to use the toilet", 
+      "freq": 0, 
+      "hypernyms": [
+        "train.v.01"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "toilet-train.v.01.toilet-train"
+      ], 
+      "pos": "v"
+    }, 
+    "understudy.v.01": {
+      "_id": "understudy.v.01", 
+      "definition": "be an understudy or alternate for a role", 
+      "freq": 11, 
+      "hypernyms": [
+        "memorize.v.01"
+      ], 
+      "hyponyms": [], 
+      "lemmas": [
+        "understudy.v.01.understudy", 
+        "understudy.v.01.alternate"
+      ], 
+      "pos": "v"
+    }
+  }
+}
