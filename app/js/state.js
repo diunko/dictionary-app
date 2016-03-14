@@ -11,7 +11,7 @@ var Ctx = (function(){
 
   var ctx =  Morearty.createContext({
     initialState: {
-      query: "entity",
+      query: "entity.n.01",
       searchResult: {
         ids:{
           hyperSiblings: [],
@@ -50,6 +50,12 @@ var Ctx = (function(){
 })()
 
 window.$appctx = Ctx
+
+setTimeout(function(){
+  var b = Ctx.getBinding()
+  b.set("query", "aircraft.n.01")
+  
+}, 1000)
 
 var $state
 
