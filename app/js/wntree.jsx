@@ -46,9 +46,20 @@ var WNTree = React.createClass({
           return <Synset rootId={result.ids.synset} synId={id} synData={data[id]} mode="hypernym" />
         })
 
-        if(data[ids[0]] && data[ids[0]].hypernyms){
+        var hypernymsAcc = {}
+        ids.some(function(id){
+          if(data[id] && data[id].hypernyms){
+            data[id].hypernyms.some(function(hId){
+              hypernymsAcc[hId] = true
+            })
+          }
+        })
+
+        var hIds = Object.keys(hypernymsAcc)
+        
+        if(hIds.length){
           return <div>
-            {data[ids[0]].hypernyms.map(function(hId){
+            {hIds.map(function(hId){
               return <div><a href={"/#/" + hId}>{hId}</a></div>
             })}
             <div>{children}</div>
